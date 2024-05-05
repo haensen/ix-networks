@@ -45,7 +45,7 @@ for index, ix in enumerate(activeIxs):
         # Detect the IP version from the address because the reported version doesn't always match
         ip_version = 0
         try:
-            network = ipaddress.ip_network(subnet['subnet'])
+            network = ipaddress.ip_network(subnet['subnet'], strict=False)
             ip_version = network.version # 4 or 6
         except ValueError:
             print(f"Warning! '{subnet['subnet']}' not recognized as a valid IP v4 or v6 address. Skipping.")
