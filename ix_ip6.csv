@@ -304,6 +304,7 @@ Prefix,Name
 2001:7f8:60::/48,Thinx-v6
 2001:7f8:61::/64,R_ix v6
 2001:7f8:63::/48,DTEL-IX v6
+2001:7f8:64:225::/48,InterLAN-IX v6
 2001:7f8:66::/64,Rheintal IX v6
 2001:7f8:68::/48,TouIX v6
 2001:7f8:69::/64,EPIX.Warszawa-KIX v6
@@ -331,6 +332,7 @@ Prefix,Name
 2001:7f8:8a::/64,THESS-IX-v6
 2001:7f8:8b::/64,BY-IX v6
 2001:7f8:8d::/64,Tirol IX v6
+2001:7f8:8e::11/118,B-IX Regional Peering IPv6 subnet
 2001:7f8:8f::/48,LSIX v6
 2001:7f8:90::/64,IX Brighton v6
 2001:7f8:91::/64,NIX.SK v6
@@ -392,6 +394,7 @@ Prefix,Name
 2001:7f8:d9:5c::/64,SBIX-London-v6
 2001:7f8:d9:ff::/64,VIXP-v6
 2001:7f8:d:100::/64,Netnod Gothenburg
+2001:7f8:d:200::/48,Netnod Copenhagen v6
 2001:7f8:d:201::/64,Netnod Copenhagen MTU4470 v6
 2001:7f8:d:300::/64,Netnod Sundsvall
 2001:7f8:d:fb::/64,STH-B -- MTU4470 v6
@@ -424,6 +427,7 @@ Prefix,Name
 2001:7fa:11::/64,WA-IX v6
 2001:7fa:2:50ba::/64,IIX-Surabaya v6
 2001:7fa:3:5f44::/64,CHIX
+2001:7fa:3:b0df::/48,HIXv6
 2001:7fa:3:ca07::/64,WIX v6
 2001:7fa:7:2::/64,JPNAP Osaka v6
 2001:7fa:7:4::/64,JPNAP Fukuoka v6
@@ -451,6 +455,7 @@ Prefix,Name
 2001:de8:8:9::/64,JPIX Fukuoka-v6
 2001:de8:8::/64,JPIX IPv6-IX
 2001:de8:c000::/48,Amaravati Internet Exchange v6
+2001:de8:c:2::/48,BBIX
 2001:de8:c:4::/64,BBIX-v6
 2001:de8:d::/64,SOX
 2001:de9:4000::/48,MARIIX v4
