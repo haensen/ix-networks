@@ -36,9 +36,18 @@ for index, ix in enumerate(activeIxs):
         if subnet['subnet'] == '': continue
         if subnet['short_name'] == '': continue
 
+        # Add manually the mask to LUBIX v4
+        if subnet['subnet'] == '196.60.64.0' and subnet['short_name'] == 'LUBIX v4':
+            subnet['subnet'] = '196.60.64.0/24'
+        
+        # Detect the IP version from the address because reported version doesn't always match
+        ip_version = 4
+        if ':' in subnet['subnet']:
+            ip_version = 6
+
         # Add the subnet
         prefix = [subnet['subnet'], subnet['short_name']]
-        if subnet['version'] == 'IPv4':
+        if ip_version == 4:
             ixPrefixesIP4.append(prefix)
         else:
             ixPrefixesIP6.append(prefix)
