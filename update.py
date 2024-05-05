@@ -11,8 +11,9 @@ import csv
 activeIxs = json.loads(urlopen(API_IXP_URL).read())
 print(f'Found {len(activeIxs)} active IXs.')
 
-ixPrefixesIP4 = []
-ixPrefixesIP6 = []
+# Use dictionaries to remove duplicates
+ixPrefixesIP4 = {}
+ixPrefixesIP6 = {}
 
 # Get all active subnets for IXs
 for index, ix in enumerate(activeIxs):
@@ -48,20 +49,20 @@ for index, ix in enumerate(activeIxs):
         # Add the subnet
         prefix = [subnet['subnet'], subnet['short_name']]
         if ip_version == 4:
-            ixPrefixesIP4.append(prefix)
+            ixPrefixesIP4[subnet['subnet']] = subnet['short_name']
         else:
-            ixPrefixesIP6.append(prefix)
+            ixPrefixesIP6[subnet['subnet']] = subnet['short_name']
     print(f'Processed {index+1}/{len(activeIxs)} IXs')
 
 # Save the subnets to a file
-def save(array, file):
+def save(dictionary, file):
     print(f'Saving to file {file}')
     csvFile = open(file, 'w', newline='', encoding='utf-8')
     writer = csv.writer(csvFile)
     # Write the headings
     writer.writerow(['Prefix', 'Name'])
-    # Write the subnets
-    writer.writerows(array)
+    # Write the subnets in sorted order
+    writer.writerows(map(lambda key: [key, dictionary[key]] , sorted(dictionary)))
 save(ixPrefixesIP4, OUTPUT_IPV4_FILE)
 save(ixPrefixesIP6, OUTPUT_IPV6_FILE)
 
