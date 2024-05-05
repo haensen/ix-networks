@@ -4,6 +4,7 @@ on:
   schedule:
     # Run weekly. Random numbers are used to avoid high load times and in turn being dropped.
     - cron: "40 12 * * 5"
+  workflow_dispatch:
 
 jobs:
   update-csv:
