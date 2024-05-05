@@ -1,6 +1,10 @@
 # Internet exchange point subnets
 
-Files ```ix_ipv4.csv``` and ```ix_ipv6.csv``` contain networks used by peers of IX to exchange packets. Inactive networks have been filtered out.
+Files ```ix_ipv4.csv``` and ```ix_ipv6.csv``` contain networks used by peers of IX to exchange packets.
+
+Inactive networks have been filtered out.
+
+Updated weekly.
 
 ### License
 
