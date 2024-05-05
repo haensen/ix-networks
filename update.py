@@ -6,6 +6,7 @@ OUTPUT_IPV6_FILE = "ix_ip6.csv"
 from urllib.request import urlopen
 import json
 import csv
+import ipaddress
 
 # Get the active IX Points
 activeIxs = json.loads(urlopen(API_IXP_URL).read())
@@ -41,16 +42,19 @@ for index, ix in enumerate(activeIxs):
         if subnet['subnet'] == '196.60.64.0' and subnet['short_name'] == 'LUBIX v4':
             subnet['subnet'] = '196.60.64.0/24'
         
-        # Detect the IP version from the address because reported version doesn't always match
-        ip_version = 4
-        if ':' in subnet['subnet']:
-            ip_version = 6
+        # Detect the IP version from the address because the reported version doesn't always match
+        ip_version = 0
+        try:
+            network = ipaddress.ip_network(subnet['subnet'])
+            ip_version = network.version # 4 or 6
+        except ValueError:
+            print(f"Warning! '{subnet['subnet']}' not recognized as a valid IP v4 or v6 address. Skipping.")
+            continue
 
         # Add the subnet
-        prefix = [subnet['subnet'], subnet['short_name']]
         if ip_version == 4:
             ixPrefixesIP4[subnet['subnet']] = subnet['short_name']
-        else:
+        elif ip_version == 6:
             ixPrefixesIP6[subnet['subnet']] = subnet['short_name']
     print(f'Processed {index+1}/{len(activeIxs)} IXs')
 
