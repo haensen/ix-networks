@@ -276,6 +276,7 @@ Prefix,Name
 2001:7f8:36::/64,DE-CIX Marseille v6
 2001:7f8:39:1::/64,TLLIX-v6
 2001:7f8:3b::/64,IIX v6
+2001:7f8:3c:3e8::/64,KG-IX v6
 2001:7f8:3d::/64,DE-CIX Hamburg v6
 2001:7f8:3e::/64,STHIX v6
 2001:7f8:3f::/64,DE-CIX Istanbul IPv6
@@ -561,6 +562,7 @@ Prefix,Name
 2801:109::/64,SUR-IX-v6
 2801:11:a800:1::/64,PIT Bolivia-v6
 2801:12:e800:5::/64,GTIX-v6
+2801:135::/44,IX CDE
 2801:145::/64,PIT Honduras-v6
 2801:14:9000::/64,PIT Chile - Santiago - IP v6
 2801:168::/64,CABASE-OGB - IX Argentina (Moreno) v6
