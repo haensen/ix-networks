@@ -567,6 +567,7 @@ Prefix,Name
 2801:14:9000::/64,PIT Chile - Santiago - IP v6
 2801:168::/64,CABASE-OGB - IX Argentina (Moreno) v6
 2801:17:c000:201::/64,Intered ipv6
+2801:19:b800::/64,STIX.DO-v4
 2801:1a:5800:140::/64,PIT Colombia-Bogota-v6
 2801:1a:5800:141::/64,PIT Barranquilla
 2801:1a:5800:142::/64,PIT Medellin
