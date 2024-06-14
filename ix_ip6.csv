@@ -117,6 +117,7 @@ Prefix,Name
 2001:504:110::/64,DesMoinesIX-v6
 2001:504:118::/64,SBH-IX-v6
 2001:504:12::/64,Equinix-Seattle
+2001:504:131::/64,GRR-IX-v6
 2001:504:13:1::/64,Any2 NorthEast IPv6
 2001:504:13:3::/64,Any2 Norcal IPv6
 2001:504:13:4:0:0:0:0/64,Any2 Chicago
@@ -543,6 +544,7 @@ Prefix,Name
 2407:8f40::/64,CNIXP-v6
 2602:802:b0ff::/64,PIE-v6
 2602:fb78::/64,SKNIX-v6
+2602:fc3c:200::/64,TheSCAX IPv6 peering subnet
 2602:fed2:ff1::/64,Gig IX Ashburn v6
 2602:ffa9:e748:e515::/64,DACS-IX-Central-v6
 2602:ffa9:e748:e516::/64,DACS-IX-West-v6
@@ -574,6 +576,7 @@ Prefix,Name
 2801:1a:5800:141::/64,PIT Barranquilla
 2801:1a:5800:142::/64,PIT Medellin
 2801:1a:5800:148::/64,PIT Cali
+2801:1a:5800:149::/64,PIT Quito IPv6
 2801:1c:4800:1::/64,IXP INFOCOM v6
 2801:1d:a000:1::/64,IXP Costa Rica v6
 2801:80:330::/64,UEPG IX v6
