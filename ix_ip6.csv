@@ -307,7 +307,7 @@ Prefix,Name
 2001:7f8:60::/48,Thinx-v6
 2001:7f8:61::/64,R_ix v6
 2001:7f8:63::/48,DTEL-IX v6
-2001:7f8:64:225::/48,InterLAN-IX v6
+2001:7f8:64:225::/64,InterLAN-IX v6
 2001:7f8:66::/64,Rheintal IX v6
 2001:7f8:68::/48,TouIX v6
 2001:7f8:69::/64,EPIX.Warszawa-KIX v6
