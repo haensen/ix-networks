@@ -345,7 +345,7 @@ Prefix,Name
 2001:7f8:9e::/64,DE-CIX Dusseldorf v6
 2001:7f8:9f::/64,Megaport Sofia v6
 2001:7f8::/64,DE-CIX Frankfurt v6 Unicast
-2001:7f8:a0::/48,DE-CIX Madrid v6
+2001:7f8:a0::/64,DE-CIX Madrid v6
 2001:7f8:a2:4000::/50,Mersey v6
 2001:7f8:a2:8000::/50,Internet of Things LAN
 2001:7f8:a2::/50,Titanic v6
