@@ -124,6 +124,7 @@ Prefix,Name
 185.0.20.0/23,Peering.czv4
 185.0.26.0/24,TurkIX-v4
 185.0.28.0/24,NetIX-Greece-v4
+185.0.37.0/24,RiyadhIX-v4
 185.1.100.0/25,ANIX v4
 185.1.101.0/24,Equinix Manchester v4
 185.1.102.0/24,Equinix Frankfurt v4
@@ -180,16 +181,17 @@ Prefix,Name
 185.1.197.0/24,Ruhr-CIX-v4
 185.1.198.0/24,kremen-IX-v4
 185.1.2.0/24,AuvernIX  v4
-185.1.202.0/24,ISTIX-v4
 185.1.203.0/24,FRYS-IX-v4
 185.1.206.0/24,SIIX
 185.1.208.0/23,DE-CIX Munich-v4
 185.1.213.0/24,1-IX-UA-v4
 185.1.22.0/24,Equinix Madrid v4
+185.1.221.0/24,GIBIRIX-v4
 185.1.222.0/23,Speed-IX
 185.1.224.0/24,IXP.GE
 185.1.226.0/23,NetIXv4
 185.1.235.0/24,IIX-EE IPv4 peering subnet
+185.1.239.0/24,Equinix-Jeddah-v4
 185.1.240.0/24,ERA-IX-v4
 185.1.25.0/24,Brno IX v4
 185.1.254.0/24,1-IX-EU-v4
