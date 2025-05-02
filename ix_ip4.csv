@@ -162,7 +162,7 @@ Prefix,Name
 185.1.138.0/24,NLocIX v4
 185.1.142.0/24,STHIX - Sundsvall
 185.1.144.0/24,MS-IX v4
-185.1.147.0/24,Community-IX Vienna
+185.1.147.0/24,FogIXP-v4
 185.1.15.0/24,SmartHub IX v4
 185.1.152.0/23,PITER-IX SPB v4
 185.1.154.0/24,SBIX-Dusseldorf-v4
@@ -364,8 +364,8 @@ Prefix,Name
 195.42.144.0/23,Equinix Paris
 195.60.80.0/26,Free-IX-v4
 195.60.82.64/26,eXchange West IPv4
-195.66.224.0/21,LINX (Juniper)
-195.66.236.0/22,LINX (Extreme)
+195.66.224.0/21,LINX (LON1)
+195.66.236.0/22,LINX (LON2)
 195.66.244.0/24,IXManchesterv4
 195.66.246.0/24,IXScotland
 195.69.117.0/24,Netnod Copenhagen v4
