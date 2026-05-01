@@ -97,7 +97,7 @@ Prefix,Name
 119.27.63.0/24,Equinix Hong Kong v4
 123.108.8.0/21,IIX-Jakarta ipv4
 123.253.159.0/24,Extreme IX Pune v4
-128.0.45.0/24,Iraq-IXP ipv4
+128.0.45.0/24,IRAQ-IXP v4
 131.72.77.240/28,TTIX2-v4
 136.175.224.0/24,RO-CIX v4
 138.185.12.0/24,Peru IX Trujillo ipv4
@@ -159,7 +159,7 @@ Prefix,Name
 170.82.112.0/22,IXP-APROSVA ipv4
 172.16.96.0/24,LANIC IPv4 Subnet 1
 172.16.97.0/24,LANIC IPv4 Subnet 2
-176.126.38.0/25,GR-IX v4
+176.126.38.0/25,GR-IX Athens v4
 177.52.38.0/23,IX.br Porto Alegre v4
 178.18.224.0/22,GNM-IX Amsterdam v4
 178.18.230.0/24,GNM-IX Ukraine - v4
@@ -178,7 +178,7 @@ Prefix,Name
 185.0.16.0/24,POMIX v4
 185.0.19.0/24,GPC-Missouri-v4
 185.0.20.0/23,Peering.czv4
-185.0.28.0/24,NetIX-Greece-v4
+185.0.28.0/24,NetIX Greece v4
 185.0.37.0/24,RiyadhIX-v4
 185.1.100.0/25,ANIX v4
 185.1.101.0/24,Equinix Manchester v4
@@ -186,21 +186,21 @@ Prefix,Name
 185.1.103.0/24,RoNIX v4
 185.1.104.0/24,Equinix London v4
 185.1.105.0/24,Community-IX.ch v4
-185.1.106.0/24,Equinix Milan ipv4
+185.1.106.0/24,Equinix Milan v4
 185.1.107.0/24,Equinix Stockholm v4
-185.1.109.0/24,Equinix Dublin ipv4
+185.1.109.0/24,Equinix Dublin v4
 185.1.110.0/24,KG-IX v4
 185.1.112.0/24,Equinix Amsterdam v4
 185.1.113.0/24,LITIX v4
-185.1.114.0/24,MiNAP ipv4
-185.1.115.0/24,VSIX NAP ipv4
+185.1.114.0/24,MiNAP v4
+185.1.115.0/24,VSIX NAP v4
 185.1.116.0/24,Equinix Lisbon v4
 185.1.118.0/24,DV-IX v4
 185.1.119.0/24,DE-CIX BCN v4
 185.1.121.0/24,IXP.mk ipv4
 185.1.122.0/24,NL-ix 2
 185.1.123.0/24,GR-IX Thessaloniki v4
-185.1.124.0/24,STIX ipv4
+185.1.124.0/24,STIX v4
 185.1.125.0/24,4B42 IX IPv4
 185.1.126.0/24,JEDIX v4
 185.1.127.0/24,Belgium IX
@@ -226,7 +226,7 @@ Prefix,Name
 185.1.166.0/23,LocIX Frankfurt v4
 185.1.169.0/24,BéarnIX-v4
 185.1.170.0/23,DE-CIX Dusseldorf v4
-185.1.172.0/24,SEECIX-v4
+185.1.172.0/24,SEECIX v4
 185.1.178.0/24,ManxIX v4
 185.1.179.0/24,ROPN-IX v4
 185.1.18.0/24,DO-IX v4
@@ -240,7 +240,7 @@ Prefix,Name
 185.1.199.0/24,WRIX v4
 185.1.2.0/24,AuvernIX  v4
 185.1.203.0/24,FRYS-IX-v4
-185.1.206.0/24,SIIX ipv4
+185.1.206.0/24,SIIX v4
 185.1.208.0/23,DE-CIX Munich-v4
 185.1.213.0/24,1-IX-UA-v4
 185.1.22.0/24,Equinix Madrid v4
@@ -249,14 +249,15 @@ Prefix,Name
 185.1.224.0/24,IXP.GE v4
 185.1.225.0/24,RUDAKI_v4
 185.1.226.0/23,NetIXv4
-185.1.230.0/25,Nednod Helsinki v4
+185.1.230.0/25,Netnod Helsinki v4
+185.1.230.128/25,Netnod Helsinki v4
 185.1.235.0/24,IIX-EE v4
 185.1.239.0/24,Equinix-Jeddah-v4
 185.1.240.0/24,ERA-IX-v4
 185.1.25.0/24,Brno IX v4
 185.1.254.0/24,1-IX-EU v4
 185.1.27.0/24,SOX IPv4
-185.1.29.0/24,THESS-IX-v4
+185.1.29.0/24,THESS-IX v4
 185.1.30.0/24,B-IX BG Peering IPv4 subnet
 185.1.31.0/24,Tirol IX v4
 185.1.32.0/24,LSIX
@@ -265,7 +266,7 @@ Prefix,Name
 185.1.40.0/24,T-CIX v4
 185.1.43.0/24,SAIX v4
 185.1.44.0/24,MIXP v4
-185.1.46.0/24,DE-CIX Palermo ipv4
+185.1.46.0/24,DE-CIX Palermo v4
 185.1.47.0/24,DE-CIX Marseille v4
 185.1.48.0/24,DE-CIX Istanbul v4
 185.1.54.0/24,UP-IXP IPv4
@@ -281,11 +282,12 @@ Prefix,Name
 185.1.65.192/27,TIX v4
 185.1.65.224/27,SIX v4
 185.1.66.0/26,OuestIX
-185.1.69.0/24,INEX Cork ipv4
+185.1.69.0/24,INEX Cork v4
 185.1.71.0/25,Titanic
 185.1.71.128/25,Mersey
 185.1.74.0/26,Community-IX v4
 185.1.76.0/24,BAIKAL-IX v4
+185.1.77.0/24,Tehran IX v4
 185.1.8.0/24,UAE-IX v4
 185.1.81.0/24,Sibir-IX v4
 185.1.82.0/24,STHIX - Gothenburg
@@ -297,29 +299,30 @@ Prefix,Name
 185.1.92.0/24,LIXP v4
 185.1.93.0/24,RomandIX v4
 185.1.94.0/24,Asteroid Amsterdam v4
-185.1.97.0/24,PCIX ipv4
+185.1.97.0/24,PCIX v4
 185.1.99.0/24,MESH-IX v4
 185.153.160.0/22,PSIX ipv4
+185.188.81.0/24,MIX Thessaloniki v4
 185.209.89.0/24,PERM-IX v4
 185.232.60.0/24,Eurasia Peering IX v4
 185.239.152.0/22,SNS-IX v4
-185.6.36.0/23,INEX LAN1 ipv4
+185.6.36.0/23,INEX LAN1 v4
 185.79.175.0/24,ESPANIX VoiP Alta v4
 185.79.213.0/24,KazNIX
 187.16.193.0/24,IX.br João Pessoa v4
 187.16.194.0/24,IX.br Vitória v4
 187.16.195.0/24,IX.br Belém v4
 187.16.196.0/24,IX.br Natal v4
-187.16.197.0/24,PTT Caxias do Sul v4
+187.16.197.0/24,IX.br Caxias do Sul v4
 187.16.198.0/24,IX.br Manaus v4
 187.16.199.0/24,IX.br São José do Rio Preto v4
-187.16.200.0/24,PTT Porto Velho v4
+187.16.200.0/24,IX.br Porto Velho v4
 187.16.201.0/24,IX.br Maringá v4
 187.16.202.0/24,IX.br Lajeado v4
 187.16.203.0/24,IX.br Cuiabá v4
-187.16.204.0/24,PTT Foz do Iguaçu v4
+187.16.204.0/24,IX.br Foz do Iguaçu v4
 187.16.205.0/24,IX.br Santa Maria v4
-187.16.207.0/24,PTT Palmas v4
+187.16.207.0/24,IX.br Palmas v4
 187.16.208.0/20,IX.br São Paulo v4
 188.93.170.0/23,LU-CIX v4
 190.52.206.0/24,IXP Ecuador - MEC
@@ -354,7 +357,7 @@ Prefix,Name
 193.192.12.0/26,NSIX-v4
 193.201.116.128/26,KM-IX v4
 193.201.151.64/26,DD-IX-v4
-193.201.28.0/23,NaMeX Rome ipv4
+193.201.28.0/23,Namex Rome v4
 193.203.0.0/23,VIX
 193.219.13.64/26,LIPTAM v4
 193.22.30.0/24,CyIX ipv4
@@ -380,7 +383,7 @@ Prefix,Name
 193.42.140.0/23,TIX ipv4
 193.42.155.0/24,ECIX HAM
 194.107.117.0/24,OD-IX
-194.116.96.0/24,TOP-IX ipv4
+194.116.96.0/24,TOP-IX v4
 194.117.50.0/27,TJ-IX v4
 194.146.118.0/24,BLNX/ECIX
 194.165.32.0/24,GIX
@@ -407,8 +410,9 @@ Prefix,Name
 194.68.133.0/24,Netnod Sundsvall
 194.85.107.0/24,MSK-IX EKT v4
 194.85.177.0/24,MSK-IX STW v4
-194.88.240.0/25,INEX LAN2 ipv4
+194.88.240.0/25,INEX LAN2 v4
 194.9.117.0/24,BLNX/ECIX
+194.93.123.64/26,NVL-IX v4
 195.12.116.0/23,KAZ-GOV-IX Astana v4
 195.12.117.0/24,KAZ-GOV-IX Almaty v4
 195.12.118.0/27,KAZ-GOV-IX Aqtua v4
@@ -434,7 +438,7 @@ Prefix,Name
 195.246.227.0/24,SMILE v4
 195.35.65.0/24,UA-IX
 195.42.144.0/23,Equinix Paris
-195.60.80.0/26,Free-IX-v4
+195.60.80.0/26,Free-IX v4
 195.60.82.64/26,eXchange West ipv4
 195.66.224.0/21,LINX LON1 v4
 195.66.236.0/22,LINX LON2 v4
@@ -565,18 +569,18 @@ Prefix,Name
 200.14.75.0/24,CABASE-COR v4
 200.192.108.0/24,IX.br Campinas IPv4
 200.192.109.0/24,IX.br Campina Grande v4
-200.192.110.0/24,PTT Ribeirão Preto v4
-200.192.111.0/24,PTT Goiânia v4
+200.192.110.0/24,IX.br Ribeirão Preto v4
+200.192.111.0/24,IX.br Goiânia v4
 200.219.130.0/24,IX.br Aracaju v4
-200.219.131.0/24,PTT Feira de Santana v4
+200.219.131.0/24,IX.br Feira de Santana v4
 200.219.138.0/24,IX.br Teresina v4
 200.219.139.0/24,IX.br Belo Horizonte v4
-200.219.140.0/24,PTT Caruaru v4
-200.219.141.0/24,PTT Florianopolis V4
-200.219.143.0/24,PTT Rio Branco v4
+200.219.140.0/24,IX.br Caruaru v4
+200.219.141.0/24,IX.br Florianopolis V4
+200.219.143.0/24,IX.br Rio Branco v4
 200.219.144.0/24,IX.br Londrina v4
 200.219.145.0/24,IX.br Salvador v4
-200.219.146.0/24,PTT Boa Vista v4
+200.219.146.0/24,IX.br Boa Vista v4
 200.219.147.0/24,IX.br Recife v4
 200.23.206.0/24,PIT MX -v4
 200.26.191.0/24,Patagonia IX v4
@@ -719,7 +723,7 @@ Prefix,Name
 213.162.194.0/24,NIXVAL-IX v4
 213.184.52.0/24,RTIX ipv4
 217.174.157.0/24,B-IX Regional Peering IPv4 subnet
-217.29.66.0/23,MIX ipv4
+217.29.66.0/23,MIX-IT v4
 217.79.160.0/23,XP-London IXP
 218.100.10.0/24,VNIX-HN v4
 218.100.14.0/24,VNIX-CMH v4
@@ -785,13 +789,13 @@ Prefix,Name
 45.183.47.0/24,Peru IX Lima ipv4
 45.184.132.0/24,IX-DO-v4
 45.184.144.0/23,IX.br Brasília v4
-45.184.146.0/23,PTT Curitiba v4
+45.184.146.0/23,IX.br Curitiba v4
 45.185.43.0/24,IXP Infocom v4
 45.186.143.0/24,UEPG IX v4
 45.227.0.0/24,IX.br São Luís v4
 45.227.1.0/24,IX.br Maceió v4
-45.227.2.0/24,PTT Campo Grande V4
-45.227.3.0/24,PTT Cascavel v4
+45.227.2.0/24,IX.br Campo Grande V4
+45.227.3.0/24,IX.br Cascavel v4
 45.68.0.0/24,PIT Bolivia v4
 45.68.100.0/24,NAPVE VLN v4
 45.68.16.0/22,PIT Chile ipv4
@@ -811,7 +815,7 @@ Prefix,Name
 45.68.60.0/24,PIT-Dominican ipv4
 45.68.61.0/24,PIT-Dominican ipv4
 45.68.68.0/24,NIX Monterrey_v4
-45.68.72.0/21,PTT Fortaleza v4
+45.68.72.0/21,IX.br Fortaleza v4
 45.68.80.0/21,IX.br Rio de Janeiro v4
 45.68.88.0/24,NAPVE v4
 45.68.89.0/24,NAPVE MCBO v4
