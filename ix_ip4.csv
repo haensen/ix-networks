@@ -1,7 +1,7 @@
 Prefix,Name
 1.7.246.0/24,AMS-IX Kolkata v4
 1.7.247.0/24,AMS-IX Hyderabad v4
-10.31.2.0/24,BIXP-v4
+10.31.2.0/24,BIXP v4
 101.203.104.0/24,BBIX Fukuoka v4
 101.203.88.0/22,BBIX Tokyo v4
 101.97.43.0/24,Equinix Perth v4
@@ -31,7 +31,6 @@ Prefix,Name
 103.136.103.0/24,EdgeIX - Brisbane v4
 103.142.153.0/24,Guam-IX-v4
 103.147.194.0/23,Fiji-IXP ipv4
-103.149.217.0/24,CIX Australia - v4
 103.151.196.0/23,BDIX v4
 103.154.8.0/24,ANI-IX v4
 103.158.187.0/24,STUIX v4
