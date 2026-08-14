@@ -150,6 +150,7 @@ Prefix,Name
 185.0.30.0/24,FogIXP Frankfurt v4
 185.0.37.0/24,RiyadhIX-v4
 185.0.42.0/23,1-IX-EU v4
+185.0.5.0/24,DE-CIX Helsinki v4
 185.1.100.0/25,ANIX v4
 185.1.101.0/24,Equinix Manchester v4
 185.1.102.0/24,Equinix Frankfurt v4
@@ -280,7 +281,6 @@ Prefix,Name
 187.16.207.0/24,IX.br Palmas v4
 187.16.208.0/20,IX.br São Paulo v4
 188.93.170.0/23,LU-CIX v4
-190.52.206.0/24,IXP Ecuador - MEC
 191.97.88.0/21,NAP del Caribe ipv4
 192.108.145.0/24,SIX Košice
 192.114.62.0/23,IIX Israel v4
@@ -288,7 +288,6 @@ Prefix,Name
 192.168.173.0/24,NAP Chile
 192.203.154.0/24,APE
 192.34.27.0/24,UNMETERED IX v4
-192.38.7.0/24,DIX ipv4
 192.65.185.0/24,CIXP v4
 193.105.214.0/24,GraX v4
 193.106.112.0/23,W-IX v4
@@ -425,15 +424,13 @@ Prefix,Name
 196.60.54.0/24,MogIX
 196.60.58.0/24,amsix-lagos ipv4
 196.60.6.128/25,CAMIX-Douala v4
-196.60.64.0/24,LUBIX ipv4
 196.60.66.0/24,Asteroid MBA v4
 196.60.68.0/24,MSA IPv4
 196.60.70.0/23,NAPAfrica IX Cape Town v4
 196.60.76.0/24,BFIX Bobo v4
-196.60.78.0/24,Goma ipv4
 196.60.8.0/22,NAPAfrica IX Johannesburg v4
 196.60.84.0/26,Douala-IX v4
-196.60.86.0/24,EG-IX ipv4
+196.60.86.0/24,EG-IX v4
 196.60.94.0/24,LSK-IX v4
 196.61.191.0/24,JumboIX Lima ipv4
 198.179.18.0/24,CANIX Montreal v4
@@ -546,6 +543,7 @@ Prefix,Name
 206.53.137.0/24,RVA-IX v4
 206.53.139.0/24,FD-IX - Indianapolis v4
 206.53.140.0/24,YEGIX v4
+206.53.141.0/24,DominicaIX
 206.53.143.0/24,MASS-IX v4
 206.53.170.0/24,Megaport IX Ashburn v4
 206.53.171.0/24,MegaIX Seattle v4
@@ -659,6 +657,7 @@ Prefix,Name
 45.227.2.0/24,IX.br Campo Grande V4
 45.227.3.0/24,IX.br Cascavel v4
 45.68.100.0/24,NAPVE VLN v4
+45.68.122.0/24,PIT Ecuador - Guayaquil v4
 45.68.128.0/24,PIT Colombia - Cucuta v4
 45.68.130.0/24,PIT Colombia - Pasto v4
 45.68.16.0/22,PIT Chile - Santiago v4
@@ -668,7 +667,7 @@ Prefix,Name
 45.68.34.0/24,PIT Honduras ipv4
 45.68.36.0/24,PIT Cali ipv4
 45.68.38.0/24,PIT Quito v4
-45.68.40.0/24,STIX.DO ipv4
+45.68.40.0/24,STIX.DO v4
 45.68.44.0/24,PIT AR ipv4
 45.68.48.0/24,PIT Guatemala ipv4
 45.68.5.0/24,GTIX-v4
@@ -681,6 +680,7 @@ Prefix,Name
 45.71.9.0/24,PITChile Concepcion v4
 45.71.9.128/26,PIT Temuco v4
 46.47.0.0/19,Volga-IX v4
+49.213.56.0/23,DE-CIX Jakarta v4
 5.196.188.32/27,SBIX Frankfurt v4
 5.57.80.0/22,LoNAP v4
 58.181.127.0/24,PIE Karachi ipv4
@@ -703,7 +703,7 @@ Prefix,Name
 91.198.241.224/27,EMF-IX v4
 91.203.127.0/24,YAR-IX V4
 91.206.52.0/23,SwissIX v4
-91.210.16.0/22,NIX.CZ ipv4
+91.210.16.0/22,NIX.CZ v4
 91.212.235.0/24,Mega IX Sofia v4
 91.213.211.128/26,ERA-IX Vienna v4
 91.213.236.0/24,France-IX Toulouse v4
