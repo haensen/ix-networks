@@ -38,6 +38,8 @@ Prefix,Name
 103.161.216.0/23,ISPAB-NIX v4
 103.162.254.0/24,DE-CIX ASEAN v4
 103.162.76.0/25,MX-IX Mumbai v4
+103.162.76.128/26,MX-IX Fujairah v4
+103.162.76.192/26,MX-IX Chennai v4
 103.162.77.0/25,MX-IX Delhi v4
 103.162.77.128/25,MX-IX Dubai v4
 103.162.82.0/24,Borneo-IX-v4
@@ -76,9 +78,9 @@ Prefix,Name
 112.137.24.0/24,AMS-IX Singapore v4
 112.137.26.0/24,AMS-IX Manila v4
 116.89.244.0/24,GetaFIX Cebu ipv4
-119.11.184.0/24,JKT-IX ipv4
+119.11.184.0/24,JKT-IX v4
 119.27.63.0/24,Equinix Hong Kong v4
-123.108.8.0/21,IIX-Jakarta ipv4
+123.108.8.0/21,IIX-Jakarta v4
 123.253.159.0/24,Extreme IX Pune v4
 128.0.45.0/24,IRAQ-IXP v4
 131.72.77.240/28,TTIX2-v4
@@ -451,7 +453,7 @@ Prefix,Name
 198.32.238.0/24,BIG APE
 199.181.158.0/23,GRR-iX v4
 200.0.17.0/24,CABASE-BUE v4
-200.0.18.0/24,AIX
+200.0.18.0/24,AIX v4
 200.0.19.0/24,CABASE-NQN v4
 200.0.20.0/24,AMS-IX Caribbean v4
 200.0.22.0/23,OCIX v4
@@ -625,7 +627,7 @@ Prefix,Name
 223.31.200.0/24,AMS-IX Mumbai v4
 23.181.208.192/26,OpenIX Beirut v4
 27.124.87.0/24,BatamIX Jakarta ipv4
-27.124.88.0/24,BatamIX-Batam ipv4
+27.124.88.0/24,BatamIX-Batam v4
 27.254.16.0/23,CSL Thai-IX Malaysia
 27.254.18.0/23,CSL Thai-IX Singapore v4
 27.254.196.0/23,CSL Thai-IX Bangkok
@@ -639,7 +641,7 @@ Prefix,Name
 38.56.117.0/24,Peru IX Chiclayo ipv4
 43.243.21.0/24,AKL-IX ipv4
 43.243.22.0/23,MegaIX Auckland ipv4
-43.254.82.0/24,AIX ipv4
+43.254.82.0/24,AIX v4
 43.255.58.0/23,OMNI-IX BATAM v4
 44.190.42.0/24,ARIX v4
 45.120.248.0/24,Extreme IX Delhi v4
@@ -665,7 +667,7 @@ Prefix,Name
 45.68.20.0/24,SUR-IX v4
 45.68.24.0/24,PIT Colombia - Bogota v4
 45.68.28.0/24,PIT Barranquilla v4
-45.68.34.0/24,PIT Honduras ipv4
+45.68.34.0/24,PIT Honduras v4
 45.68.36.0/24,PIT Cali ipv4
 45.68.38.0/24,PIT Quito v4
 45.68.40.0/24,STIX.DO v4
