@@ -119,6 +119,7 @@ Prefix,Name
 149.112.14.0/24,Ninja-IX Norfolk v4
 149.112.17.0/24,DesMoinesIX v4
 149.112.18.0/24,Denver-IX v4
+149.112.180.0/24,Nell-IX v4
 149.112.25.0/24,Ninja-IX Auburn v4
 149.112.26.0/24,Lambda IX v4
 149.112.27.0/24,DE-CIX-v4
@@ -242,6 +243,7 @@ Prefix,Name
 185.1.43.0/24,SAIX v4
 185.1.44.0/24,MIXP.me v4
 185.1.48.0/24,DE-CIX Istanbul v4
+185.1.52.0/24,DataLine-IX v4
 185.1.54.0/24,UP-IXP v4
 185.1.60.0/24,CentralIX
 185.1.61.0/24,BW-IX Karlsruhe v4
