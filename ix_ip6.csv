@@ -362,6 +362,7 @@ Prefix,Name
 2001:7F8:7F:0:0:0:0:0/64,Peering.cz ipv6
 2001:7F8:80:0:0:0:0:0/64,IX.KS v6
 2001:7F8:81:0:0:0:0:0/64,AuvernIX v6
+2001:7F8:82:0:0:0:0:0/64,Pirix v6
 2001:7F8:83:0:0:0:0:0/64,Equinix Amsterdam v6
 2001:7F8:87:0:0:0:0:0/64,Brno IX v6
 2001:7F8:8:0:0:0:0:0/64,MegaIX Dusseldorf v6
